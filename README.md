@@ -13,6 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 
 
-Hiiiii, I'm Silvia 🌱
+Hi, I'm Silvia 🦆
 
-I am a computer engineer obsessed with ✨ cryptography ✨ and everything related to security and privacy
+I am a computer engineer obsessed with ✨ cryptography ✨ and everything related to cybersecurity and Blockchain
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=silvduck)](https://github.com/silvduck/github-readme-stats)
+
